@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="landing-page.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+      <file leaf-file-name="landing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/landing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2580">
-              <caret line="172" column="1" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -30,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="152" column="13" lean-forward="true" selection-start-line="151" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+            <state relative-caret-position="376">
+              <caret line="164" column="18" lean-forward="false" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
               <folding>
                 <element signature="e#5666#5672#0" expanded="true" />
               </folding>
@@ -107,6 +107,16 @@
               <item name="sociality" type="b2602c69:ProjectViewProjectNode" />
               <item name="sociality" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sociality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sociality" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sociality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sociality" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510930133230</updated>
-      <workItem from="1510930135395" duration="3459000" />
+      <workItem from="1510930135395" duration="3637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3459000" />
+    <option name="totallyTimeSpent" value="3637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="22" width="840" height="972" extended-state="0" />
@@ -259,14 +269,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/landing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/landing-page.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2580">
@@ -275,10 +277,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/landing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="152" column="13" lean-forward="true" selection-start-line="151" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
+        <state relative-caret-position="376">
+          <caret line="164" column="18" lean-forward="false" selection-start-line="164" selection-start-column="18" selection-end-line="164" selection-end-column="18" />
           <folding>
             <element signature="e#5666#5672#0" expanded="true" />
           </folding>
