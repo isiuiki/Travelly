@@ -1,0 +1,173 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+.logo{
+    margin-top: 12px;
+}
+
+.color{
+    color: #f8f8f8;
+}
+
+.input{
+    border-radius: 0px;
+    width: 200px;
+}
+
+.search{
+    width: 40rem;
+    margin-top: 4rem;
+}
+
+.button{
+    background-color: rgba(236,91,64,0.78);
+    border-color:  rgba(236,91,64,0.78);
+    width: 150px;
+    border-radius: 0px;
+}
+
+.card-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.2857em;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+}
+
+.headline {
+    color: #f8f8f8;
+}
+
+.navbar .nav > li > a {
+    line-height: 100px;
+}
+
+.lead {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.portfolio-item {
+    margin-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.vertical-center{
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url('../img/header.png') no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    font-size: 4em;
+}
+
+.input-background {
+    background-color: #eeeeee;
+}
+
+.subscribe {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: rgba(238, 238, 238, 0.78);
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 10px;
+    font-size: 2rem;
+    font-family: 'Montserrat';
+}
+
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 0;
+    border: none;
+    border-radius: 0px;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+}
+
+.card-img-top {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+    background: rgba(255,255,255,0.78);
+
+}
+
+.padding{
+    margin-right: 5rem;
+}
+
+.section-b-heading {
+    font-size: 5rem;
+    margin-bottom: 5rem;
+}
+
+.footer-links {
+    color: black;
+}
+
+footer {
+    padding: 30px 0;
+    background-color: #eeeeee;
+}
+
+@media(max-width:1199px) {
+    .search{
+        width: 30rem;
+        margin-top: 15px;
+    }
+}
